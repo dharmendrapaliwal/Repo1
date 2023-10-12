@@ -1,0 +1,12 @@
+ Volume in drive C is BOOTCAMP
+ Volume Serial Number is 0246-9FF7
+
+ Directory of C:\Users\Dharmendra Paliwal\Desktop\GIT\MyFolder
+
+10/12/2023  02:53 PM    <DIR>          .
+10/12/2023  02:53 PM    <DIR>          ..
+10/12/2023  11:02 AM                 0 index.txt
+10/12/2023  11:01 AM                 8 test.txt
+10/12/2023  02:53 PM                 0 test1.txt
+               3 File(s)              8 bytes
+               2 Dir(s)  52,125,888,512 bytes free
